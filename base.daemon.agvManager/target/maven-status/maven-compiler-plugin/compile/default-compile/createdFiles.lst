@@ -1,0 +1,17 @@
+agvmanager\tcpprotocol\server\DashboardRequest.class
+agvmanager\tcpprotocol\server\RechargeAGVRequest.class
+agvmanager\tcpprotocol\server\AgvManagerProtocolRequest.class
+agvmanager\tcpprotocol\server\RechargeAGVFinishedOrderRequest.class
+daemon\agvmanager\presentation\AgvManagerTcpServer.class
+agvmanager\tcpprotocol\server\FreeAGVRequest.class
+agvmanager\tcpprotocol\server\AgvManagerProtocolRequest$2.class
+agvmanager\tcpprotocol\server\BaseErrorRequest.class
+agvmanager\tcpprotocol\server\BadRequest.class
+agvmanager\tcpprotocol\server\ErrorInRequest.class
+agvmanager\tcpprotocol\server\MaintenanceAGVRequest.class
+agvmanager\tcpprotocol\server\UnknownRequest.class
+agvmanager\tcpprotocol\server\AgvManagerProtocolRequest$1.class
+agvmanager\tcpprotocol\server\AssignTaskRequest.class
+daemon\agvmanager\AGVManagerDaemon.class
+agvmanager\tcpprotocol\server\InputMessage.class
+daemon\agvmanager\presentation\AgvManagerTcpServer$AGVManagerHandler.class

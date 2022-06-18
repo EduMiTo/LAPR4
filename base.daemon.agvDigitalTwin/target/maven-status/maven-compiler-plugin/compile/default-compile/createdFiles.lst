@@ -1,0 +1,17 @@
+agvdigitaltwin\tcpprotocol\server\AgvDigitalTwinProtocolRequest$1.class
+agvdigitaltwin\tcpprotocol\server\BaseErrorRequest.class
+agvdigitaltwin\tcpprotocol\server\AgvDigitalTwinProtocolRequest$2.class
+agvdigitaltwin\tcpprotocol\server\ErrorInRequest.class
+daemon\agvdigitaltwin\AGVDigitalTwinDaemon.class
+agvdigitaltwin\tcpprotocol\server\UpdateStatusRequest.class
+agvdigitaltwin\tcpprotocol\server\AgvDigitalTwinProtocolRequest.class
+agvdigitaltwin\tcpprotocol\server\InputMessage.class
+agvdigitaltwin\tcpprotocol\server\SharedMemoryRequest.class
+daemon\agvdigitaltwin\presentation\AgvDigitalTwinTcpServer$AgvDigitalTwinHandler.class
+agvdigitaltwin\tcpprotocol\server\UpdateStatusRequest$1.class
+agvdigitaltwin\tcpprotocol\server\BadRequest.class
+agvdigitaltwin\tcpprotocol\server\UpdateStatusRechargeRequest$1.class
+agvdigitaltwin\tcpprotocol\server\UpdateStatusFreeRequest.class
+daemon\agvdigitaltwin\presentation\AgvDigitalTwinTcpServer.class
+agvdigitaltwin\tcpprotocol\server\UnknownRequest.class
+agvdigitaltwin\tcpprotocol\server\UpdateStatusRechargeRequest.class

@@ -1,57 +1,78 @@
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\DeliveringPostalAddressesTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\TotalAmountWithTaxesTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockEndLSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\ClientUserTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ProductOrderTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\PaymentMethodTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVIdentifierTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryCodeTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\PhoneNumberTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\InternalCodeTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\VATTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryDescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\ModelTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\StatusTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\VolumeTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\TaskTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ShipmentCostTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\QuantityTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AutonomyTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\BrandTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockBeginWSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\BirthdayTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockIdentifierTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AisleIdentifierTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\CostTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\VerifyGenderTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ShipmentMethodTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockDepthWSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryBuilderTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\WidthTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\WeightTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ProductionCodeTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\LengthTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockEndWSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ProductTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockBeginLSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\PriceTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\DescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ReferenceTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\TechnicalDescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ShortDescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVBuilderTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\BarcodeTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\ShelfIdentifierTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVShortDescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ExtendedDescriptionTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\RowIdentifierTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\BillingPostalAddressesTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\OrderLineTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockDepthLSquareTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\TotalAmountWithoutTaxesTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\StatusBuilderTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\HeightTest.java
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\MaximumWeightTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\ShelfIdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ProductionCodeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\IdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\LengthTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\OrderLineTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\communicationprotocol\CommunicationProtocolTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ShipmentCostTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\BatteryTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\ModelTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AutonomyTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\VerifyQuestionTypeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\TotalAmountWithTaxesTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\RepeatabilityTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockEndLSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\MaximumWeightTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\QuantityTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\StatusBuilderTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\SurveyIdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockBeginLSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockIdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\SurveySectionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\PaymentMethodTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\VerifyGenderTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\HeightTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockDepthWSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\CostTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVBuilderTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\ContextSurveyTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\SectionQuestionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ShipmentMethodTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\QuestionTextTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\TechnicalDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\QuestionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryBuilderTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\ProductOrderTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ExtendedDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\ChoiceQuestionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ReferenceTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\VolumeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\DeliveringPostalAddressesTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\BrandTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\BirthdayTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\ClientUserTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockBeginWSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\TaskTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\categorymanagement\domain\CategoryCodeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\PriceTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVShortDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ShortDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\ordermanagement\domain\TotalAmountWithoutTaxesTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\BarcodeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\DescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\VATTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\ScalingOptionsQuestionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\SectionDescriptionTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\orderstatusmanagement\domain\StatusTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\ProductTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\ContextTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\AnswerTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\ClientUserSurveyTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\BillingPostalAddressesTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AisleIdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\InternalCodeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\clientusermanagement\domain\PhoneNumberTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\WidthTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\TitleTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockDepthLSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\VerifyObligatorinessTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\agvmanagement\domain\AGVIdentifierTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\AgeTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\surveymanagement\domain\MessageTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\productmanagement\domain\WeightTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\AGVDockEndWSquareTest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.core\src\test\java\eapli\base\Warehouse\domain\RowIdentifierTest.java

@@ -1,1 +1,15 @@
-C:\Users\edusi\Desktop\lapr4\Projeto Java\base.app.agvManager\src\main\java\package-info.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\DashboardRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\RechargeAGVRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\FreeAGVRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\daemon\agvmanager\AGVManagerDaemon.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\daemon\agvmanager\presentation\AgvManagerTcpServer.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\AgvManagerProtocolRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\MaintenanceAGVRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\BadRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\ErrorInRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\RechargeAGVFinishedOrderRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\InputMessage.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\BaseErrorRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\package-info.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\AssignTaskRequest.java
+C:\ISEP\2º ANO\2º SEMESTRE\LAPR4\repo\Projeto Java\base.daemon.agvManager\src\main\java\agvmanager\tcpprotocol\server\UnknownRequest.java

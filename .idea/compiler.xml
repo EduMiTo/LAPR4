@@ -19,5 +19,20 @@
         <module name="base.bootstrappers" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base" target="11" />
+      <module name="base.app.agvDigitalTwin" target="11" />
+      <module name="base.app.backoffice.console" target="11" />
+      <module name="base.app.bootstrap" target="11" />
+      <module name="base.app.common.console" target="11" />
+      <module name="base.app.other.console" target="11" />
+      <module name="base.app.user.console" target="11" />
+      <module name="base.bootstrappers" target="11" />
+      <module name="base.core" target="11" />
+      <module name="base.daemon.agvDigitalTwin" target="11" />
+      <module name="base.daemon.agvManager" target="11" />
+      <module name="base.daemon.orderServer" target="11" />
+      <module name="base.persistence.impl" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

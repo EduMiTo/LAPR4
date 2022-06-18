@@ -1,0 +1,13 @@
+ordermanager\tcpprotocol\server\BaseErrorRequest.class
+ordermanager\tcpprotocol\server\InputMessage.class
+daemon\ordermanager\presentation\OrderManagerTcpServer.class
+ordermanager\tcpprotocol\server\BadRequest.class
+ordermanager\tcpprotocol\server\OrderManagerProtocolRequest$1.class
+ordermanager\tcpprotocol\server\ViewClientOrder.class
+ordermanager\tcpprotocol\server\OrderManagerProtocolRequest.class
+daemon\ordermanager\presentation\OrderManagerTcpServer$OrderManagerHandler.class
+ordermanager\tcpprotocol\server\UnknownRequest.class
+ordermanager\tcpprotocol\server\ErrorInRequest.class
+ordermanager\tcpprotocol\server\OrderManagerProtocolRequest$2.class
+daemon\ordermanager\OrderManagerDaemon.class
+ordermanager\tcpprotocol\server\AddProductShoppingCart.class
